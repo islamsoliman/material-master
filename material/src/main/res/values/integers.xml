@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- dialog padding horizontal-->
+    <integer name="horizontalPadding">40</integer>
+    <!-- dialog padding vertical-->
+    <integer name="verticalPadding">24</integer>
+</resources>

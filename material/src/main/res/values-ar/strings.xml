@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="loading">تحميل ....</string>
+    <string name="exit">خروج</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="exit_message">هل تريد الخروج؟</string>
+
+    <string name="am">ص</string>
+    <string name="pm">م</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Year picker dialog -->
+    <dimen name="abc_text_size_title_material">40sp</dimen>
+    <!-- Date picker dialog month year days days of week labels and datePicker day   -->
+    <dimen name="abc_text_size_caption_material">25sp</dimen>
+    <!-- month in header -->
+    <dimen name="abc_text_size_display_2_material">40sp</dimen>
+    <!-- Date picker header day and month-->
+    <dimen name="abc_text_size_headline_material">45sp</dimen>
+
+    <dimen name="dp_headerSecondaryHeight">60dp</dimen>
+    <dimen name="dp_headerPrimaryHeight">190dp</dimen>
+
+    <dimen name="dp_headerSecondaryHeightNoDay">10dp</dimen>
+    <dimen name="dp_headerPrimaryHeightNoDay">150dp</dimen>
+    <dimen name="dialog_button_size">20sp</dimen>
+    <dimen name="dialog_width">400dp</dimen>
+</resources>

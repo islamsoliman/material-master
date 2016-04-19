@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="months">
+        <item>كانون الثاني</item>
+        <item>شباط</item>
+        <item>آذار</item>
+        <item>نيسان</item>
+        <item>أيار</item>
+        <item>حزيران</item>
+        <item>تموز</item>
+        <item>آب</item>
+        <item>أيلول</item>
+        <item>تشرين الأول</item>
+        <item>تشرين الثاني</item>
+        <item>كانون الأول</item>
+    </string-array>
+
+</resources>
